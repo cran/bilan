@@ -1,0 +1,3 @@
+useDynLib(bilan)
+exportPattern("^bil\\.[[:alpha:]]+")
+exportPattern("^sbil\\.[[:alpha:]]+")
